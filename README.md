@@ -12,7 +12,7 @@ A data analysis project exploring weekly sales across 45 Walmart stores using Ex
 - Temperature vs Weekly Sales Analysis
 - Fuel Price vs Weekly Sales Analysis
 - Interactive Store, Year and Holiday Filters
-![WALMART DASHBOARD1](
+![WALMART DASHBOARD1](WALMART DASHBOARD1.png)
 ## Files Uploaded
 - Excel Analysis
 - SQL Queries
